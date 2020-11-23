@@ -1,0 +1,9 @@
+.list {
+    min-height: 100vh;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    list-style-type: none;
+}

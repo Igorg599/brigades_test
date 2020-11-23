@@ -1,0 +1,10 @@
+.app_header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    &_btn {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 15px;
+    }
+}
